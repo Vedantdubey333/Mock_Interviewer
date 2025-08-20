@@ -31,3 +31,30 @@ It includes **speech-to-text transcription, eye-tracking, and posture monitoring
 
 No additional dependencies are required.
 
+🎯 Usage
+
+1. open the app in your browser
+2. Choose Mock Interview Mode
+3. Answer the AI-generated questions
+4. Receive real-time feedback on eye contact, posture, and responses
+
+Contributing
+Contributions are welcome! 🎉
+
+Steps to contribute:
+1. Fork the repo
+2. Create a new branch (git checkout -b feature-name)
+3. Commit changes (git commit -m 'Add new feature')
+4. Push to branch (git push origin feature-name)
+5. Open a Pull Request
+
+📜 License
+
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
+
+👨‍💻 Author
+
+Vedant Dubey
+GitHub: Vedantdubey333
+LinkedIn: Vedant Dubey
