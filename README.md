@@ -27,13 +27,7 @@ It includes **speech-to-text transcription, eye-tracking, and posture monitoring
    ```bash
    git clone https://github.com/Vedantdubey333/Mock_Interviewer.git
    cd Mock_Interviewer
-2. Install dependencies
-   ```bash
-   pip install -r requirements.txt
-3. Run the application
-   ```bash
-   python app.py
+2. Open the index.html file in your browser to run the application. 🚀
 
-3. 
-4. 
+No additional dependencies are required.
 
