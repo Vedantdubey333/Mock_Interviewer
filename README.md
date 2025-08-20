@@ -57,4 +57,4 @@ This project is licensed under the MIT License – see the LICENSE
 
 Vedant Dubey
 - GitHub: [Vedantdubey333](https://github.com/Vedantdubey333)
-- LinkedIn: [Vedant Dubey]((https://www.linkedin.com/in/vedant-dubey-819940292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [Vedant Dubey](https://www.linkedin.com/in/vedant-dubey-819940292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
